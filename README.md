@@ -15,12 +15,9 @@ OK1DUO Atalanta Locator Dosbox config for Windows 10
 ```diff
 + mount c: your_local_drive\your_local_folder_path
 ```
-- go to C:\ drive
-```diff
-+ c:
-```
+- go to C:\ drive ```c:```
 - check if locator installer exist in mounted folder
-- ```diff
+```diff
 + dir
 ```
 - run locator installer
