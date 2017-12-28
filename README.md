@@ -5,7 +5,7 @@ OK1DUO Atalanta Locator Dosbox config for Windows 10
 [http://ok1duo.nagano.cz/](http://ok1duo.nagano.cz/)
 
 ### download and install DosBox
-[dosbox](http://www.dosbox.com/download.php?main=1)
+[DosBox](http://www.dosbox.com/download.php?main=1)
 
 ### How-To
 - create folder on your local hard drive
@@ -17,11 +17,11 @@ OK1DUO Atalanta Locator Dosbox config for Windows 10
 ```
 - go to C:\ drive ```c:```
 - check if locator installer exist in mounted folder
-```diff
-+ dir
+```
+dir
 ```
 - run locator installer
-```diff
+```
 loc1229.exe
 ```
 - replace DosBox config with included **"dosbox-0.74.conf"**
